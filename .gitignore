@@ -1,2 +1,7 @@
 env
 .vscode
+checkpoint
+data.pickle
+model.tflearn.index
+model.tflearn.meta
+model.tflearn.data-00000-of-00001
